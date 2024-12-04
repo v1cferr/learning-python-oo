@@ -1,6 +1,7 @@
 # Iniciando
 
-<https://www.freecodecamp.org/news/how-to-use-oop-in-python/>
+FreeCodeCamp: <https://www.freecodecamp.org/news/how-to-use-oop-in-python/>
+Alura: <https://cursos.alura.com.br/formacao-linguagem-python>
 
 > Em **programação orientada a objetos (OO)**, uma classe é um modelo para criar objetos. Um objeto é uma instância específica de uma classe, e as classes são utilizadas para definir o comportamento e as propriedades compartilhadas por um grupo de objetos relacionados.
 
