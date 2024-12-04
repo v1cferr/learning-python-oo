@@ -11,13 +11,16 @@ class Restaurante:
     ativo = False
 
 restaurante_teste = Restaurante()
+
 ```
+
 > Instanciando a classe `Restaurante` em um objeto ^
 
 ```python
 python .\restaurante.py
 [<__main__.Restaurante object at 0x000001E4A4636A50>, <__main__.Restaurante object at 0x000001E4A48C8A50>]
 ```
+
 > Referenciando um objeto na memória (Endereço Hexadecimal) ^
 
 ## Boas práticas da [PEP 8](https://www.dio.me/articles/voce-sabe-o-que-e-pep-8-guia-para-um-codigo-limpo-e-eficiente)
@@ -32,5 +35,5 @@ class Restaurante:
 # Instanciando a classe
 restaurante_teste = Restaurante()
 ```
-> Convenções da [PEP 8](https://www.dio.me/articles/voce-sabe-o-que-e-pep-8-guia-para-um-codigo-limpo-e-eficiente) (com espaçamento adequado)
 
+> Convenções da [PEP 8](https://www.dio.me/articles/voce-sabe-o-que-e-pep-8-guia-para-um-codigo-limpo-e-eficiente) (com espaçamento adequado)
